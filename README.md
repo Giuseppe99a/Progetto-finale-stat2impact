@@ -27,8 +27,8 @@ Nel terminale eseguire:
 
 ## LINK al progetto
  Prova il progetto qui: [https://globalwarmingbymz.netlify.app/](https://globalwarmingbymz.netlify.app/)
-   ~   GitHub Repository: [https://github.com/michela-z/progetto-finale-frontend](https://github.com/michela-z/progetto-finale-frontend) 
+   ~   GitHub Repository: [https://github.com/Giuseppe99a/Progetto-finale-stat2impact.git](https://github.com/Giuseppe99a/Progetto-finale-stat2impact.git) 
 
 
 ## Contatti
-Michela Zallocco ~ [Instagram](https://www.instagram.com/michelazallocco/) ~ [Linkedin](https://www.linkedin.com/in/michelazallocco/) ~ michelazallocco94@gmail.com
+Michela Zallocco ~ [Instagram](https://www.instagram.com/giuseppe_aiello99/) ~ [Linkedin](https://www.linkedin.com/in/giuseppe-aiello-89691a238/) ~ giuseppe99a@libero.it

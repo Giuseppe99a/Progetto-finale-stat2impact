@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import "node_modules/bootstrap/scss/bootstrap";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat';
+  color: white;
+}
+
+body {
+  height: 100vh;
+  overflow-x: hidden;
+  background: radial-gradient(#05485c, black);
+}
+
+.App {
+  text-align: center;
+}
+
+.maincontainer {
+  margin: 30px auto;
+  width: 90%;
+  max-width: 1500px;
+  padding: 30px;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+@media only screen and (max-width: 500px) {
+  .maincontainer {
+    padding: 0;
+  }
+  body {
+    height: 100%;
+  }
+}
